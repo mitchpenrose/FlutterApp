@@ -1,6 +1,6 @@
 # flutter_application
 
-A new Flutter project.
+Flutter project designed to help LoL players determine which team composition is better.
 
 ## Getting Started
 
